@@ -7,17 +7,17 @@ This document describe the initial steps that you need to take to setup the pi.
 ## Requirements
 
 - PI (2/3)
-- SSD with minimal of 8gb
+- SD with minimal of 8gb
 - Router with internet routable gateway
 
 ## Software
 
-- Etcher (Used to burn an image into the ssd)
+- Etcher (Used to burn an image into the sd)
 - Raspian Stretch lite
 
 ## First steps
 
-Please prepare an ssd with raspian stretch lite and put an empty file in the root named ssh. This makes sure that we can access the pi over ssh.
+Please prepare an sd with raspian stretch lite and put an empty file in the root named ssh. This makes sure that we can access the pi over ssh.
 
 [Headless SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/)
 
