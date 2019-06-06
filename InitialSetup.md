@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This document describe the initial steps that you need to take.
+This document describe the initial steps that you need to take to setup the pi.
 
 ## Requirements
 
