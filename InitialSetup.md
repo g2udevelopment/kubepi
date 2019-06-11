@@ -73,6 +73,7 @@ Commands are not shown here just general steps. And should be done on all nodes
 ## Extra
 
 - copy kubeconfig to local and run kubectl
+- Explore open faas. [OpenFAAS](https://docs.openfaas.com/deployment/kubernetes/)
 
 ## Tips
 
